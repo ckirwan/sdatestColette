@@ -2,6 +2,7 @@ package com.example.colette.myapplication;
 
 import android.app.Activity;
 import android.os.Bundle;
+/* Hello Colette Here */
 
 public class MainActivity extends Activity
 {
